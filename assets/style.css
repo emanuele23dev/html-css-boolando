@@ -30,10 +30,12 @@ img {
   align-items: center;
 }
 
-a {
+#app-header{
+  a {
   text-decoration: none;
   color: white;
   padding: 4px;
+}
 }
 /* END HEADER */
 
@@ -127,4 +129,47 @@ p{
     padding: 5px;
     font-weight: 600;
 }
+/* END SECTION BOTTOM */
 
+/* FOOTER  */
+.bg-footer{
+  background-color: rgb(23, 23, 23);
+  height: 100px;
+}
+
+h4{
+  color: white;
+}
+
+ a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  margin-top: 5px;
+  padding-right: 10px;
+  font-size: 14px;
+}
+
+.fb {
+  height: 15px;
+  margin-top: 10px;
+}
+
+.insta {
+  height: 15px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.x {
+  height: 15px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.yt {
+  height: 15px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+/* <!-- END FOOTER  -->  */
